@@ -1,4 +1,0 @@
-# Requirements for CodeAlpha Python Programming 
-# Tasks 3: Task Automation requires the requests library
-
-requests>=2.28.0
