@@ -4,14 +4,7 @@
 - **Student ID**: CA/DF1/243433
 - **Duration**: 10 Aug 2026 - 10 Sep 2026
 
-## Tasks
-
-1. `Task1_hangman.py` - Simple text-based Hangman game where player guesses a word one letter at a time
-2. `Task2_stock_tracker.py` - Stock portfolio tracker that calculates total investment based on manually defined stock prices
-3. `Task3_task_automation.py` - Task automation scripts for real-life repetitive tasks
-4. `Task4_chatbot.py` - Simple rule-based chatbot with predefined replies
-
-## Project Structure
+## Folder Structure
 
 ```
 CodeAlpha_Python_Programming/
@@ -22,11 +15,6 @@ CodeAlpha_Python_Programming/
 └── Task4_chatbot.py
 ```
 
-## How to Run
-
-1. Ensure you have Python 3.x installed
-2. Navigate to the project directory
-3. Run any task with: `python TaskX_filename.py`
 
 ## Task Details
 
